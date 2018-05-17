@@ -1,0 +1,4 @@
+1 x Arduino Pro Micro 5 V
+1 x Bluetooth module HC-05
+1 x MPU6050 gyroscope + accelerator
+1 x 3AAA battery case with switch
